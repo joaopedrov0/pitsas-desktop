@@ -4,6 +4,7 @@
   "description": "A Pitsás Requests Manager for desktop! Here you can create new pizza flavors.",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "joaopedrov0",
